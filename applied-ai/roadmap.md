@@ -58,9 +58,10 @@ By the end of this roadmap, the learner should be able to:
   - Outcome: understand the scope of Applied AI and how we will learn.
   - Exercise: write in 2–3 lines what you want from Applied AI.
 
-- [ ] **L01. What “Applied AI” actually means**
+- [x] **L01. What “Applied AI” actually means**
   - Outcome: distinguish between AI as research and AI as a practical tool.
   - Exercise: list 3 products or workflows that feel like Applied AI.
+  - Notes: Covered on 2026-03-12. Examples discussed included Augment AI, OpenClaw, and n8n as part of practical AI systems/workflows.
 
 - [ ] **L02. Where AI is useful vs where it is hype**
   - Outcome: develop early judgment instead of blind excitement.
@@ -526,13 +527,13 @@ These are not mandatory yet, but they are good checkpoints.
 Use this section for quick check-ins.
 
 ## Current status
-- **Current phase:** Phase 0
-- **Current lesson:** L00
-- **Last completed lesson:** None
-- **Overall status:** Not started
+- **Current phase:** Phase 0 — Orientation
+- **Current lesson:** L02
+- **Last completed lesson:** L01
+- **Overall status:** In progress
 
 ## Daily log
-- **Day 1:** _Pending_
+- **Day 1 (2026-03-12):** Completed L01 — What “Applied AI” actually means. Covered the difference between AI research and Applied AI, discussed real-world examples, and captured the student response: Augment AI, OpenClaw, and n8n.
 - **Day 2:** _Pending_
 - **Day 3:** _Pending_
 - **Day 4:** _Pending_
