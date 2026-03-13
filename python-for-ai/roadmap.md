@@ -57,9 +57,10 @@ By the end of this roadmap, the learner should be able to:
   - Exercise: predict outputs for small Python snippets involving `if`, lists, dicts, `None`, and `==` vs `is`.
   - Notes: Covered in `python-for-ai/lecture-1/notes-1.md`. Also included common errors like `KeyError`, `IndexError`, `TypeError`, `ValueError`, and `NameError`, plus copy-vs-reference traps and data-structure basics.
 
-- [ ] **L02. Functions, lists, dicts, and debugging like a Pythonista**
+- [x] **L02. Functions, lists, dicts, and debugging like a Pythonista**
   - Outcome: write small functions cleanly, use lists/dicts confidently, and debug beginner Python errors faster.
   - Exercise: write small utility functions, fix broken snippets, and improve “JS-style Python” into cleaner Python.
+  - Notes: Covered on 2026-03-13. Included `return` vs `print`, list and dict basics, `IndexError`/`KeyError`, debugging mindset, shared-reference bugs, and the mutable default argument trap.
 
 - [ ] **L03. Strings, slicing, and everyday built-ins**
   - Outcome: work comfortably with strings, indexing, slicing, `len`, `sum`, `sorted`, `min`, `max`, and membership checks.
@@ -293,13 +294,13 @@ These can run alongside the lectures.
 
 ## Current status
 - **Current phase:** Phase 0 — Orientation + Core Syntax
-- **Current lecture:** L02
-- **Last completed lecture:** L01
+- **Current lecture:** L03
+- **Last completed lecture:** L02
 - **Overall status:** In progress
 
 ## Daily log
 - **Day 1 (2026-03-12):** Completed L01 — Python basics for an AI learner. Covered operators, conditionals, truthiness/falsiness, `==` vs `is`, `None`, collections, common errors, copy-vs-reference, and beginner Python traps. Notes stored in `python-for-ai/lecture-1/notes-1.md`.
-- **Day 2 (2026-03-13):** Roadmap defined before starting L02. Next class focus: functions, lists, dicts, debugging, and writing less JS-style Python.
+- **Day 2 (2026-03-13):** Completed L02 — Functions, lists, dicts, and debugging like a Pythonista. Covered `return` vs `print`, list and dict usage, `IndexError`/`KeyError`, debugging common assumptions, shared-reference bugs, and the mutable default argument trap. Notes stored in `python-for-ai/lecture-2/notes-2.md`.
 - **Day 3:** _Pending_
 - **Day 4:** _Pending_
 - **Day 5:** _Pending_
