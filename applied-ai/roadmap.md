@@ -63,9 +63,10 @@ By the end of this roadmap, the learner should be able to:
   - Exercise: list 3 products or workflows that feel like Applied AI.
   - Notes: Covered on 2026-03-12. Examples discussed included Augment AI, OpenClaw, and n8n as part of practical AI systems/workflows.
 
-- [ ] **L02. Where AI is useful vs where it is hype**
+- [x] **L02. Where AI is useful vs where it is hype**
   - Outcome: develop early judgment instead of blind excitement.
   - Exercise: categorize 5 AI claims as practical, exaggerated, or unclear.
+  - Notes: Covered on 2026-03-13. Discussed a four-question test for evaluating AI claims, useful AI in code reviews, hype patterns like replacing clean forms with chatbots, and high-risk autonomy issues when agents get broad production access without guardrails.
 
 ### Phase checkpoint
 - Can explain Applied AI in simple language to a beginner.
@@ -528,13 +529,13 @@ Use this section for quick check-ins.
 
 ## Current status
 - **Current phase:** Phase 0 — Orientation
-- **Current lesson:** L02
-- **Last completed lesson:** L01
+- **Current lesson:** L03
+- **Last completed lesson:** L02
 - **Overall status:** In progress
 
 ## Daily log
 - **Day 1 (2026-03-12):** Completed L01 — What “Applied AI” actually means. Covered the difference between AI research and Applied AI, discussed real-world examples, and captured the student response: Augment AI, OpenClaw, and n8n.
-- **Day 2:** _Pending_
+- **Day 2 (2026-03-13):** Completed L02 — Where AI is useful vs where it is hype. Built a simple framework to judge AI claims, discussed real value vs hype patterns, and captured examples around AI code reviews, chatbot-vs-form UX, and the risks of broad autonomous production access.
 - **Day 3:** _Pending_
 - **Day 4:** _Pending_
 - **Day 5:** _Pending_
