@@ -79,9 +79,10 @@ By the end of this roadmap, the learner should be able to:
 **Objective:** understand the core language and mental models behind AI systems.
 
 ## Lessons
-- [ ] **L03. AI vs ML vs Deep Learning**
+- [x] **L03. AI vs ML vs Deep Learning**
   - Outcome: know the relationship between the three.
   - Exercise: explain the difference in your own words.
+  - Notes: Covered on 2026-03-23. Discussed the hierarchy AI ⊃ ML ⊃ DL, neural network intuition (neurons, layers, deep networks), and when to use classical ML vs Deep Learning based on data type (tabular vs unstructured) and problem shape.
 
 - [ ] **L04. What is Machine Learning at a high level?**
   - Outcome: understand “learning from data” without heavy math.
@@ -528,15 +529,15 @@ These are not mandatory yet, but they are good checkpoints.
 Use this section for quick check-ins.
 
 ## Current status
-- **Current phase:** Phase 0 — Orientation
-- **Current lesson:** L03
-- **Last completed lesson:** L02
+- **Current phase:** Phase 1 — Foundations
+- **Current lesson:** L04
+- **Last completed lesson:** L03
 - **Overall status:** In progress
 
 ## Daily log
 - **Day 1 (2026-03-12):** Completed L01 — What “Applied AI” actually means. Covered the difference between AI research and Applied AI, discussed real-world examples, and captured the student response: Augment AI, OpenClaw, and n8n.
 - **Day 2 (2026-03-13):** Completed L02 — Where AI is useful vs where it is hype. Built a simple framework to judge AI claims, discussed real value vs hype patterns, and captured examples around AI code reviews, chatbot-vs-form UX, and the risks of broad autonomous production access.
-- **Day 3:** _Pending_
+- **Day 3 (2026-03-23):** Completed L03 — AI vs ML vs Deep Learning. Clarified the hierarchy AI ⊃ ML ⊃ DL, built intuition for neurons/layers/deep networks, and discussed when to use classical ML vs Deep Learning in practical problems.
 - **Day 4:** _Pending_
 - **Day 5:** _Pending_
 
