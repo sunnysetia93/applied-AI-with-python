@@ -84,9 +84,10 @@ By the end of this roadmap, the learner should be able to:
   - Exercise: explain the difference in your own words.
   - Notes: Covered on 2026-03-23. Discussed the hierarchy AI ⊃ ML ⊃ DL, neural network intuition (neurons, layers, deep networks), and when to use classical ML vs Deep Learning based on data type (tabular vs unstructured) and problem shape.
 
-- [ ] **L04. What is Machine Learning at a high level?**
+- [x] **L04. What is Machine Learning at a high level?**
   - Outcome: understand “learning from data” without heavy math.
   - Exercise: identify examples of ML in apps you use.
+  - Notes: Covered on 2026-03-25. Clarified ML as learning patterns from data instead of hand-written rules, walked through the basic data → training → model → prediction loop, and identified ML-driven behavior in apps like iPhone Face ID, Swiggy recommendations, Instagram Reels ranking, and Cred bill detection.
 
 - [ ] **L05. Supervised, unsupervised, and reinforcement learning**
   - Outcome: know the broad learning categories.
@@ -530,15 +531,15 @@ Use this section for quick check-ins.
 
 ## Current status
 - **Current phase:** Phase 1 — Foundations
-- **Current lesson:** L04
-- **Last completed lesson:** L03
+- **Current lesson:** L05
+- **Last completed lesson:** L04
 - **Overall status:** In progress
 
 ## Daily log
 - **Day 1 (2026-03-12):** Completed L01 — What “Applied AI” actually means. Covered the difference between AI research and Applied AI, discussed real-world examples, and captured the student response: Augment AI, OpenClaw, and n8n.
 - **Day 2 (2026-03-13):** Completed L02 — Where AI is useful vs where it is hype. Built a simple framework to judge AI claims, discussed real value vs hype patterns, and captured examples around AI code reviews, chatbot-vs-form UX, and the risks of broad autonomous production access.
 - **Day 3 (2026-03-23):** Completed L03 — AI vs ML vs Deep Learning. Clarified the hierarchy AI ⊃ ML ⊃ DL, built intuition for neurons/layers/deep networks, and discussed when to use classical ML vs Deep Learning in practical problems.
-- **Day 4:** _Pending_
+- **Day 4 (2026-03-25):** Completed L04 — What is Machine Learning at a high level? Defined ML as learning patterns from data instead of hand-written rules, introduced the basic data → training → model → prediction loop, and analyzed ML-driven behavior in iPhone Face ID, Swiggy restaurant ranking, Instagram Reels recommendations, and Cred bill detection.
 - **Day 5:** _Pending_
 
 ---
