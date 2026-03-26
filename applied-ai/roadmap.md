@@ -89,9 +89,10 @@ By the end of this roadmap, the learner should be able to:
   - Exercise: identify examples of ML in apps you use.
   - Notes: Covered on 2026-03-25. Clarified ML as learning patterns from data instead of hand-written rules, walked through the basic data → training → model → prediction loop, and identified ML-driven behavior in apps like iPhone Face ID, Swiggy recommendations, Instagram Reels ranking, and Cred bill detection.
 
-- [ ] **L05. Supervised, unsupervised, and reinforcement learning**
+- [x] **L05. Supervised, unsupervised, and reinforcement learning**
   - Outcome: know the broad learning categories.
   - Exercise: match example problems to each category.
+  - Notes: Covered on 2026-03-26. Explained supervised vs unsupervised vs reinforcement learning with plain-language mental models and real-world examples, including a stock suggestion assistant framed as primarily supervised learning supported by clustering. Introduced regression vs classification inside supervised learning and mapped example problems (rent prediction as regression, loan default prediction as classification).
 
 - [ ] **L06. What is a model?**
   - Outcome: understand a model as a learned pattern system.
@@ -531,8 +532,8 @@ Use this section for quick check-ins.
 
 ## Current status
 - **Current phase:** Phase 1 — Foundations
-- **Current lesson:** L05
-- **Last completed lesson:** L04
+- **Current lesson:** L06
+- **Last completed lesson:** L05
 - **Overall status:** In progress
 
 ## Daily log
@@ -540,7 +541,7 @@ Use this section for quick check-ins.
 - **Day 2 (2026-03-13):** Completed L02 — Where AI is useful vs where it is hype. Built a simple framework to judge AI claims, discussed real value vs hype patterns, and captured examples around AI code reviews, chatbot-vs-form UX, and the risks of broad autonomous production access.
 - **Day 3 (2026-03-23):** Completed L03 — AI vs ML vs Deep Learning. Clarified the hierarchy AI ⊃ ML ⊃ DL, built intuition for neurons/layers/deep networks, and discussed when to use classical ML vs Deep Learning in practical problems.
 - **Day 4 (2026-03-25):** Completed L04 — What is Machine Learning at a high level? Defined ML as learning patterns from data instead of hand-written rules, introduced the basic data → training → model → prediction loop, and analyzed ML-driven behavior in iPhone Face ID, Swiggy restaurant ranking, Instagram Reels recommendations, and Cred bill detection.
-- **Day 5:** _Pending_
+- **Day 5 (2026-03-26):** Completed L05 — Supervised, unsupervised, and reinforcement learning. Clarified the three learning styles, discussed how to choose between them using concrete questions, framed a stock recommendation assistant as mostly supervised learning with unsupervised clustering support and possible RL later, and introduced regression vs classification as the two core supervised task types.
 
 ---
 
